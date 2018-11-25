@@ -19,9 +19,7 @@ class(x)
 
 
 # Concatenando Strings
-nome = "Barack"; sobrenome = "Obama" 
-paste(nome, sobrenome)
-cat(nome, sobrenome)
+
 
 
 # Formatando a sa√É≠da
